@@ -15,18 +15,18 @@ Business Intelligence
 
 ### Technical Skills
 
-SQL
-Python
-Excel
-Power BI
-Tableau
+SQL,
+Python,
+Excel,
+Power BI,
+Tableau.
 
 ### Current Focus
 
-Building an actuarial analytics portfolio
-Preparing for IFoA professional examinations
-Developing predictive modelling projects
-Insurance and pension analytics
+Building an actuarial analytics portfolio,
+Preparing for IFoA professional examinations,
+Developing predictive modelling projects,
+Insurance and pension analytics.
 
 ### Connect with Me
 LinkedIn: linkedin.com/in/utulu-an
