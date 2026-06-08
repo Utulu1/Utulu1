@@ -1,5 +1,36 @@
-## Hi there 👋
+# Hi, I'm Onyema Anthony Utulu
 
+## MSc. Acturarial Science | Data Analyst | Risk Analytics Professional
+
+I hold a Bachelor's degree in Mathematics & Statistics and a Master's Degree in Acturial Science.
+
+My professional intrests include: 
+
+Actuarial Modelling
+Risk Analytics
+Insurance Pricing
+Data Analytics
+Financial Forecasting 
+Business Intelligence
+
+### Technical Skills
+
+SQL
+Python
+Excel
+Power BI
+Tableau
+
+### Current Focus
+
+Building an actuarial analytics portfolio
+Preparing for IFoA professional examinations
+Developing predictive modelling projects
+Insurance and pension analytics
+
+### Connect with Me
+LinkedIn: linkedin.com/in/utulu-an
+Email: utulu.an@gmai.com
 <!--
 **Utulu1/Utulu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
