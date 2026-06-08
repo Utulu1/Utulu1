@@ -30,7 +30,7 @@ Insurance and pension analytics.
 
 ### Connect with Me
 LinkedIn: linkedin.com/in/utulu-an
-Email: utulu.an@gmai.com
+Email: utulu.an@gmail.com
 <!--
 **Utulu1/Utulu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
