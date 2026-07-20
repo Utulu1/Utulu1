@@ -24,7 +24,6 @@ Tableau.
 ### Current Focus
 
 Building an actuarial analytics portfolio,
-Preparing for IFoA professional examinations,
 Developing predictive modelling projects,
 Insurance and pension analytics.
 
