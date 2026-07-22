@@ -15,7 +15,7 @@ Financial Forecasting
 Business Intelligence
 
 ### Technical Skills
-Actuarial
+Actuarial,
 SQL,
 Python,
 Excel,
