@@ -1,6 +1,6 @@
 # Hi, I'm Onyema Anthony Utulu
 
-## Actuarial Science | Insurance Analytics | Python | Data Analytics
+## Actuarial Science | Insurance Analytics | Data Analytics
 
 I hold a Bachelor's degree in Mathematics & Statistics and a Master's Degree in Acturial Science.
 
