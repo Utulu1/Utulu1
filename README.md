@@ -6,7 +6,8 @@ I hold a Bachelor's degree in Mathematics & Statistics and a Master's Degree in 
 
 My professional intrests include: 
 
-Actuarial Modelling
+Actuarial Analytics
+Statistical Modelling
 Risk Analytics
 Insurance Pricing
 Data Analytics
@@ -14,12 +15,11 @@ Financial Forecasting
 Business Intelligence
 
 ### Technical Skills
-
+Actuarial
 SQL,
 Python,
 Excel,
-Power BI,
-Tableau.
+Power BI
 
 ### Current Focus
 
