@@ -1,6 +1,6 @@
 # Hi, I'm Onyema Anthony Utulu
 
-## MSc. Acturarial Science | Data Analyst | Risk Analytics Professional
+## Acturarial Science | Insurance Analytics| Python | Data Analytics
 
 I hold a Bachelor's degree in Mathematics & Statistics and a Master's Degree in Acturial Science.
 
