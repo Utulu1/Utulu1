@@ -6,70 +6,74 @@
 
 ## About Me
 
-I am an Actuarial & Business Analytics Professional passionate about transforming complex data into meaningful business insights.
+I am passionate about using analytics to solve real-world business problems.
 
-With a strong academic foundation in Mathematics & Statistics and a Master's degree in Actuarial Science, I combine statistical thinking, business analytics and modern data tools to solve real-world problems across insurance, finance and business.
+My experience spans actuarial science, statistical analysis, business intelligence and data analytics, allowing me to bridge technical analysis with practical decision-making.
 
-My work focuses on developing analytical solutions that support smarter decision-making, improve business performance and communicate complex information clearly to technical and non-technical audiences alike.
+Alongside my analytical work, my teaching experience has strengthened my ability to communicate complex ideas clearly and effectively to both technical and non-technical audiences.
 
-I believe analytics should do more than explain the past—it should help organisations make better decisions about the future.
+I believe the best analytics does more than describe the past—it helps organisations make better decisions for the future.
 
 ---
 
 ## Areas of Expertise
 
-- Actuarial Analytics
-- Business Analytics
+### Actuarial Analytics
+
 - Insurance Pricing
+- Claims Reserving
+- Mortality Analysis
+- Survival Analysis
+- Pension Valuation
 - Risk Modelling
-- Predictive Analytics
-- Statistical Modelling
+
+### Business Analytics
+
 - Business Intelligence
+- KPI Reporting
+- Dashboard Development
+- Decision Support
+- Predictive Analytics
+
+### Data Analytics
+
+- Statistical Modelling
+- Data Cleaning
+- Exploratory Data Analysis
 - Data Visualisation
 
 ---
 
 ## Technical Skills
 
-### Languages
-
-- Python
-- SQL
-- R
-
-### Analytics
-
-- Statistical Modelling
-- Predictive Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-
-### Business Intelligence
-
-- Power BI
-- Microsoft Excel
-
----
-
-## Featured Projects
-
-🚧 Explore a selection of projects demonstrating actuarial modelling, business analytics, predictive analytics and decision-support solutions.
-
-- Actuarial Claims Reserving
-- Insurance Pricing Analytics
-- IFRS 17 Analytics
-- Mortality & Survival Analysis
-- Pension Valuation
-- Business Intelligence Dashboards
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python • SQL • R |
+| Analytics | Statistical Modelling • Predictive Analytics |
+| Version Control | Git • GitHub |
+| Visualisation | Power BI • Excel Charts |
 
 ---
 
 ## Professional Mission
 
-> To help organisations make confident, evidence-based decisions through actuarial thinking, business analytics and clear communication.
+To help organisations make confident, evidence-based decisions by combining actuarial thinking, business analytics and clear communication.
+
+I believe that analytics should not simply explain what happened.
+
+It should guide what happens next.
 
 ---
 
+## Featured Projects
+
+- Actuarial Claims Reserving Analytics
+- Insurance Pricing Analytics
+- IFRS 17 Modelling
+- Mortality & Survival Analysis
+- Pension Valuation
+- Retail Business Intelligence Dashboard *(Coming Soon)*
+  
 ## Current Focus
 
 - Building consulting-quality analytics projects
