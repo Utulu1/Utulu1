@@ -1,46 +1,92 @@
-# Hi, I'm Onyema Anthony Utulu
+# Anthony Utulu
 
-## Actuarial Science | Insurance Analytics | Data Analytics
+### Actuarial & Business Analytics Professional
 
-I hold a Bachelor's degree in Mathematics & Statistics and a Master's Degree in Acturial Science.
+> **Transforming Data into Better Decisions**
 
-My professional intrests include: 
+---
 
-Actuarial Analytics
-Statistical Modelling
-Risk Analytics
-Insurance Pricing
-Data Analytics
-Financial Forecasting 
-Business Intelligence
+## About Me
 
-### Technical Skills
-Actuarial,
-SQL,
-Python,
-Excel,
-Power BI
+I am an Actuarial & Business Analytics Professional passionate about transforming complex data into meaningful business insights.
 
-### Current Focus
+With a strong academic foundation in Mathematics & Statistics and a Master's degree in Actuarial Science, I combine statistical thinking, business analytics and modern data tools to solve real-world problems across insurance, finance and business.
 
-Building an actuarial analytics portfolio,
-Developing predictive modelling projects,
-Insurance and pension analytics.
+My work focuses on developing analytical solutions that support smarter decision-making, improve business performance and communicate complex information clearly to technical and non-technical audiences alike.
 
-### Connect with Me
-LinkedIn: linkedin.com/in/utulu-an
-Email: utulu.an@gmail.com
-<!--
-**Utulu1/Utulu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe analytics should do more than explain the past—it should help organisations make better decisions about the future.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+
+- Actuarial Analytics
+- Business Analytics
+- Insurance Pricing
+- Risk Modelling
+- Predictive Analytics
+- Statistical Modelling
+- Business Intelligence
+- Data Visualisation
+
+---
+
+## Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- R
+
+### Analytics
+
+- Statistical Modelling
+- Predictive Analytics
+- Data Cleaning
+- Exploratory Data Analysis
+
+### Business Intelligence
+
+- Power BI
+- Microsoft Excel
+
+---
+
+## Featured Projects
+
+🚧 Explore a selection of projects demonstrating actuarial modelling, business analytics, predictive analytics and decision-support solutions.
+
+- Actuarial Claims Reserving
+- Insurance Pricing Analytics
+- IFRS 17 Analytics
+- Mortality & Survival Analysis
+- Pension Valuation
+- Business Intelligence Dashboards
+
+---
+
+## Professional Mission
+
+> To help organisations make confident, evidence-based decisions through actuarial thinking, business analytics and clear communication.
+
+---
+
+## Current Focus
+
+- Building consulting-quality analytics projects
+- Developing actuarial analytics solutions
+- Creating executive Power BI dashboards
+- Expanding expertise in business analytics and decision intelligence
+
+---
+
+## Connect With Me
+
+📧 Email: utulu.an@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/utulu-an
+
+🌍 GitHub:
+https://github.com/Utulu1
