@@ -1,8 +1,6 @@
-# Anthony Utulu
-
-### Actuarial & Business Analytics Professional
-
-> **Transforming Data into Better Decisions**
+<p align="center">
+  <img src="anthony-utulu-banner.png" alt="Anthony Utulu — Actuarial and Business Analytics Professional" width="100%">
+</p>
 
 ---
 
