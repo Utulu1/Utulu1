@@ -3,7 +3,8 @@
 </p>
 
 ---
-
+**Helping organisations transform complex data into confident business and risk decisions through actuarial science, analytics and business intelligence.**
+---
 ## About Me
 
 I am passionate about using analytics to solve real-world business problems.
@@ -46,12 +47,12 @@ I believe the best analytics does more than describe the past—it helps organis
 
 ## Technical Skills
 
-| Category | Technologies |
-|----------|--------------|
-| Programming | Python • SQL • R |
-| Analytics | Statistical Modelling • Predictive Analytics |
-| Version Control | Git • GitHub |
-| Visualisation | Power BI • Excel Charts |
+Python
+SQL
+Power BI
+R
+Git
+Excel
 
 ---
 
@@ -65,15 +66,38 @@ It should guide what happens next.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Analytics Projects
 
-- Actuarial Claims Reserving Analytics
-- Insurance Pricing Analytics
-- IFRS 17 Modelling
-- Mortality & Survival Analysis
-- Pension Valuation
-- Retail Business Intelligence Dashboard *(Coming Soon)*
-  
+### 📊 [Actuarial Claims Reserving Workflow](https://github.com/Utulu1/Actuarial-Claims-Reserving-Workflow)
+Developed an end-to-end actuarial claims reserving solution using the Chain Ladder and Mack Chain Ladder methods in Python to estimate outstanding claims liabilities and support reserving decisions.
+
+---
+
+### 🚗 [Actuarial Motor Pricing](https://github.com/Utulu1/Actuarial-Motor-Pricing)
+Built a motor insurance pricing model using Generalised Linear Models (Poisson and Gamma) with a frequency–severity framework to estimate pure premiums and analyse insurance risk.
+
+---
+
+### 📈 [Actuarial Predictive Modelling](https://github.com/Utulu1/Actuarial-Predictive-Modelling)
+Applied predictive modelling techniques to insurance datasets to identify risk patterns, improve forecasting accuracy and support data-driven decision-making.
+
+---
+
+### 🛡️ [IFRS 17 Analytics](https://github.com/Utulu1/Actuarial-IFRS17-Modelling)
+Developed analytical models demonstrating key actuarial concepts supporting IFRS 17 reporting, financial measurement and insurance contract valuation.
+
+---
+
+### 👥 [Mortality & Survival Analysis](https://github.com/Utulu1/Actuarial-Survival-Analysis)
+Performed survival and mortality analysis using actuarial and statistical techniques to evaluate life expectancy, longevity trends and insurance risk.
+
+---
+
+### 💼 Business Intelligence Dashboard *(Coming Soon)*
+Interactive Power BI dashboards designed to transform business data into executive insights through KPI reporting and data visualisation.
+
+---
+
 ## Current Focus
 
 - Building consulting-quality analytics projects
