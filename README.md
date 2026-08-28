@@ -71,6 +71,27 @@ The repositories below represent my current flagship analytics projects and refl
 
 ---
 
+## 📊 Insurance Portfolio Analytics
+
+End-to-end insurance portfolio analytics using **SQL Server and Power BI** to evaluate profitability, claims performance, exposure and underwriting risk, and translate the findings into management decisions.
+
+### Highlights
+
+- 354K policy-year records analysed
+- £105M premium and £74M incurred claims evaluated
+- Loss Ratio, Claim Frequency and Claim Severity analysis
+- Policy Type, Vehicle Age and Business Type segmentation
+- SQL-based Data Quality, Cleaning and Analytics Views
+- Interactive Power BI Management Dashboards
+- Maintain / Monitor / Review management framework
+- Executive Documentation
+
+🔗 **Repository**
+
+https://github.com/Utulu1/Insurance-Portfolio-Analytics
+
+---
+
 ## 🚗 Motor Insurance Pricing Analytics
 
 **End-to-end actuarial pricing analytics using Poisson Generalized Linear Models to model motor insurance claim frequency and support evidence-based pricing decisions.**
@@ -111,11 +132,11 @@ https://github.com/Utulu1/Actuarial-Claims-Reserving-Workflow
 
 ---
 
-# Current Development Roadmap
+## 🔗 Current Development Roadmap
 
-I am currently developing a portfolio of consulting-quality actuarial and business analytics case studies.
+I am continuing to develop a portfolio of consulting-quality actuarial and business analytics case studies.
 
-Projects currently under development include:
+Future portfolio areas include:
 
 - IFRS 17 Insurance Liability Modelling
 - Life Insurance Pricing Analytics
@@ -124,7 +145,7 @@ Projects currently under development include:
 - Pension Valuation Analytics
 - Executive Business Analytics Dashboards
 
-These projects will be published once they satisfy the Anthony Utulu Analytics Standard for technical quality, business relevance and professional documentation.
+Projects will be published once they satisfy the Anthony Utulu Analytics Standard for technical quality, business relevance and professional documentation.
 
 ---
 
