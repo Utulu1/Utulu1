@@ -71,6 +71,19 @@ The repositories below represent my current flagship analytics projects and refl
 
 ---
 
+### General Insurance Capital & Risk Modelling
+**Python | Frequency–Severity Modelling | Monte Carlo Simulation | Tail Risk | Capital Analytics**
+
+Developed a one-year general insurance capital model combining claim frequency, heavy-tailed severity and aggregate-loss simulation to quantify unexpected insurance risk.
+
+- Modelled policy-level claim frequency using Poisson and Negative Binomial approaches.
+- Applied Lognormal and Generalised Pareto modelling to capture body and large-loss severity.
+- Estimated **£64.68m expected annual loss** and **£82.63m 99.5% VaR**, implying **£17.94m unexpected loss**.
+- Stress-tested frequency and severity deterioration, with combined +10% stress increasing 99.5% VaR to **£98.97m**.
+- Identified large-loss tail claims as **96.23% of standalone unexpected-loss capital**.
+
+[View Project](https://github.com/Utulu1/General-Insurance-Capital-Risk-Modelling)
+
 ## 📊 Insurance Portfolio Analytics
 
 End-to-end insurance portfolio analytics using **SQL Server and Power BI** to evaluate profitability, claims performance, exposure and underwriting risk, and translate the findings into management decisions.
