@@ -145,21 +145,22 @@ https://github.com/Utulu1/Actuarial-Claims-Reserving-Workflow
 
 ---
 
-## 🔗 Current Development Roadmap
+---
 
-I am continuing to develop a portfolio of consulting-quality actuarial and business analytics case studies.
+## 🔗 Portfolio Development Roadmap
 
-Future portfolio areas include:
+I am continuing to develop a portfolio of consulting-quality actuarial and business analytics case studies, guided by practical industry relevance and professional development.
 
+### Future portfolio areas
+
+- General Insurance ALM & Reinsurance Analytics
 - IFRS 17 Insurance Liability Modelling
-- Life Insurance Pricing Analytics
-- Predictive Claims Severity Modelling
-- Capital & Risk Modelling
 - Pension Valuation Analytics
-- Executive Business Analytics Dashboards
+- Life Insurance Pricing Analytics
+- Predictive Claims Modelling
+- Executive Business Analytics & Decision Intelligence
 
-Projects will be published once they satisfy the Anthony Utulu Analytics Standard for technical quality, business relevance and professional documentation.
-
+Projects are published only when they meet the **Anthony Utulu Analytics Standard** for technical quality, business relevance, reproducibility and professional documentation.
 ---
 
 # Professional Mission
